@@ -1,4 +1,4 @@
-Extended from Grimthorr (https://gist.github.com/Grimthorr) at https://gist.github.com/Grimthorr/44727ea8cf5d3df11cf7
+# Extended from Grimthorr (https://gist.github.com/Grimthorr) at https://gist.github.com/Grimthorr/44727ea8cf5d3df11cf7
 
 $servers = Get-Content C:\servers.txt
 
