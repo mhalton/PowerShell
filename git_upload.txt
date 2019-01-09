@@ -1,0 +1,9 @@
+Steps to upload files to github:
+#First add the file
+git add <filename>
+
+#Second commit with a message
+git commit -m <some_message>
+
+#Third push to git, enter username and password
+git push
